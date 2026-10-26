@@ -7,16 +7,16 @@
 
 ## 三集作品
 
-[▶ 三集在线观看](https://github.com/langya-503/langya-503/issues/1) — 打开后点击视频播放按钮即可观看。
+[▶ 三集在线观看](https://github.com/songjd314/langya-503/issues/1) — 打开后点击视频播放按钮即可观看。
 在线播放为轻量预览版；下表提供交付原片下载。
 
 视频按剧集存放于 `videos/一盏503/`。
 
 | 剧集 | 分集 | 成片时长 | 视频 |
 |---|---|---:|---|
-| 一盏503 | 第1集 南茶北渡 | 02:32.57 | [原片下载](https://github.com/langya-503/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC1%E9%9B%86-%E5%8D%97%E8%8C%B6%E5%8C%97%E6%B8%A1.mp4) |
-| 一盏503 | 第2集 茶中藏锋 | 02:06.53 | [原片下载](https://github.com/langya-503/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC2%E9%9B%86-%E8%8C%B6%E4%B8%AD%E8%97%8F%E9%94%8B.mp4) |
-| 一盏503 | 第3集 一盏归心 | 02:16.49 | [原片下载](https://github.com/langya-503/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC3%E9%9B%86-%E4%B8%80%E7%9B%8A%E5%BD%92%E5%BF%83.mp4) |
+| 一盏503 | 第1集 南茶北渡 | 02:32.57 | [原片下载](https://github.com/songjd314/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC1%E9%9B%86-%E5%8D%97%E8%8C%B6%E5%8C%97%E6%B8%A1.mp4) |
+| 一盏503 | 第2集 茶中藏锋 | 02:06.53 | [原片下载](https://github.com/songjd314/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC2%E9%9B%86-%E8%8C%B6%E4%B8%AD%E8%97%8F%E9%94%8B.mp4) |
+| 一盏503 | 第3集 一盏归心 | 02:16.49 | [原片下载](https://github.com/songjd314/langya-503/blob/main/videos/%E4%B8%80%E7%9B%8A503/%E7%AC%AC3%E9%9B%86-%E4%B8%80%E7%9B%8A%E5%BD%92%E5%BF%83.mp4) |
 
 三集合计约 **6 分 56 秒**，单集落在 2–3 分钟区间。三集已完成字幕、人物与地点首次出场标注、画面修整（清除 28 处资产参考图泄露）。
 
