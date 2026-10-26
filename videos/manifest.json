@@ -1,0 +1,39 @@
+{
+  "project": "琅琊榜·外传：一盏503",
+  "brand": "吉普号 503 普洱茶",
+  "episodes": [
+    {
+      "title": "第1集 南茶北渡",
+      "file": "videos/一盏503/第1集-南茶北渡.mp4",
+      "size_bytes": 52128694,
+      "duration_seconds": 152.57,
+      "sha256": "de71982dcc0834e281191479000c763e9cfed90dd537ca9de4cceaa43f3470da",
+      "preview_file": "videos/preview/第1集-南茶北渡-预览.mp4",
+      "preview_size_bytes": 8180125,
+      "preview_sha256": "0bdcc9235024b05126286e734aefc2dc7d3506d8bbbb9e0b684d4ec904606e3b"
+    },
+    {
+      "title": "第2集 茶中藏锋",
+      "file": "videos/一盏503/第2集-茶中藏锋.mp4",
+      "size_bytes": 33926314,
+      "duration_seconds": 126.53,
+      "sha256": "9227bb704ae6a0795b6095ab2c84fb493b68b930e2f88b37506a28841ca2f24b",
+      "preview_file": "videos/preview/第2集-茶中藏锋-预览.mp4",
+      "preview_size_bytes": 6937158,
+      "preview_sha256": "d9c0245ed284fa9e13ecbbdd235d1ede6f703072d41798234be456a823a4e9dc"
+    },
+    {
+      "title": "第3集 一盏归心",
+      "file": "videos/一盏503/第3集-一盏归心.mp4",
+      "size_bytes": 35152268,
+      "duration_seconds": 136.49,
+      "sha256": "26b4040b9ea293f2b902d3830cabbf005362096e6ffe85180a27c682aad3b571",
+      "preview_file": "videos/preview/第3集-一盏归心-预览.mp4",
+      "preview_size_bytes": 6952257,
+      "preview_sha256": "48ce07337dc64885c429600fba4baaeb729c7f23494df89b07f6d60d79d2ecb7"
+    }
+  ],
+  "total_duration_seconds": 415.59,
+  "total_duration_hms": "06:55.59",
+  "generated_at": "2026-10-26T03:56:13Z"
+}
